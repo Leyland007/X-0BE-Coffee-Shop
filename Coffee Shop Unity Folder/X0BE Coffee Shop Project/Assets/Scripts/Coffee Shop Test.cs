@@ -8,7 +8,7 @@ public class CoffeeShopTest : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-      Debug.Log("Hello!");
+      Debug.Log("Hello, welcome to XOBE Cafe! What would you like to order?");
       Debug.Log("I would like to order");
       Debug.Log(amountOrdered + " coffees");
       amountOrdered++;  
